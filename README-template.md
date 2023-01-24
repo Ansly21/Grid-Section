@@ -1,6 +1,6 @@
 # Frontend Mentor - Testimonials grid section solution
 
-This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/testimonials-grid-section-Kz-GSaJHo-). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/Ansly21/Grid-Section)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://responsive-grid-section.netlify.app/)
 
 ## My process
 
@@ -41,5 +41,5 @@ Users should be able to:
 - Frontend Mentor - [@Median21](https://www.frontendmentor.io/profile/Median21)
 
 ## Duration
-- 3 hours
+- 5 hours
 - 
