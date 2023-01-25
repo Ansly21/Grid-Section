@@ -46,4 +46,3 @@ Users should be able to:
 
 ## Duration
 - 5 hours
-- 
