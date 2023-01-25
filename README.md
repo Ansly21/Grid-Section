@@ -6,6 +6,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -20,10 +21,13 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 
+### Screenshot
+![](/design/completed_solution.png)
+
 ### Links
 
-- Solution URL: (https://github.com/Ansly21/Grid-Section)
-- Live Site URL: (https://responsive-grid-section.netlify.app/)
+- Solution URL: https://github.com/Ansly21/Grid-Section
+- Live Site URL: https://responsive-grid-section.netlify.app/
 
 ## My process
 
